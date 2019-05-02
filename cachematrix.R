@@ -33,3 +33,5 @@ cacheSolve <- function(x, ...) {
         x$setinverse(inv) # caches the inverse
         inv # returns inverse
 }
+
+## Use this Coursera resource to test the code: https://www.coursera.org/learn/r-programming/discussions/weeks/3/threads/ePlO1eMdEeahzg7_4P4Vvg
